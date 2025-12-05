@@ -1,4 +1,4 @@
-# soc-automation-scripts-
+# SOC Automation Scripts
 A collection of Python and automation tools used to accelate SOC workflow.
 
 ### Scripts Include:
